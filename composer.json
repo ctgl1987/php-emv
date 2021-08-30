@@ -1,6 +1,6 @@
 {
-    "name": "unwiredbrain/php-emv",
-    "description": "A collection of EMV tools and utilities for PHP 5.3+",
+    "name": "ctgl1987/php-emv",
+    "description": "A collection of EMV tools and utilities for PHP 5.3+ (from unwiredbrain)",
     "type": "library",
     "keywords": [
         "emv",
